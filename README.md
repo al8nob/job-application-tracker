@@ -1,3 +1,25 @@
+Job Application Tracker
+
+A full-stack Kanban board for tracking job applications, built with Next.js (App Router), MongoDB, and Mongoose. Organize applications into drag-and-drop columns (Applied, Interviewing, Offer, Rejected, etc.), update their status instantly, and keep track of your entire job search in one place.
+
+Features
+
+Drag-and-drop Kanban board (built with @dnd-kit)
+Create, move, and reorder job applications across columns
+Authentication with session-based login
+Each user has their own private board and data
+Server-side data persistence with MongoDB
+
+Tech stack
+
+Next.js (App Router, JavaScript)
+MongoDB + Mongoose
+Better Auth (authentication)
+Tailwind CSS
+dnd-kit (drag and drop)
+
+============================================================================================
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
